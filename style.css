@@ -1,4 +1,4 @@
-/* This is what commenting out looks like in CSS. A comment in CSS is started with a "/" + "*" and closed with "*" + "/". Same keyboard shortcut as HTML (the keyboard shortcut to comment out is the same for all code languages, even if the symbols look different). */
+/* This is what commenting looks like in CSS. A comment in CSS is started with a "/" + "*" and closed with "*" + "/". Same keyboard shortcut as HTML (the keyboard shortcut to comment out is the same for all code languages, even if the symbols look different). */
 
 /* Below I've commented out the @font-face rule to import the typeface "Monde." If you're using a font file you own on your computer, you can replace the font-family with the typeface name (remember to put it in between "" or '') and the src: url() with the location of your font file. */
 
